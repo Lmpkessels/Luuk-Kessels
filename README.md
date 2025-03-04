@@ -1,6 +1,6 @@
 ### Hello, reader!
 
-My name is Luuk Kessels.
+I'm Luuk Kessels,
 
 Nice to meet you!
 
